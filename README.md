@@ -3,6 +3,7 @@ Learn and Launch an Generative AI Application
 
 ## Step 1 - Complete the Prerequisties
 
+- Ref: https://github.com/jayyanar/genai-apps/blob/main/prerequisites.md
 
 
 ## Lab 1: You will learn how to create a word embeddings using Word2Vec for Word and Sentence, Use Cohere API to process the file. You can use Sagemaker Studio Lab or Google Collab for this Demos
