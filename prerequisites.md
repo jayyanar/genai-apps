@@ -4,7 +4,7 @@
 ![image](https://github.com/jayyanar/genai-apps/assets/12956021/3135ed87-4e36-4372-be22-a43e2d89fa7c)
 
 
-# 1) Ensure you have access to your personal Email address, Gmail,Ymail or Microsoft
+# 1) Ensure you have access to your personal Email address, Gmail is Must
 
 
  
