@@ -17,7 +17,7 @@
 ![image](https://github.com/jayyanar/genai-apps/assets/12956021/6be7cca7-654f-4b44-9092-ea54f6ce863c)
 
 ## b) Go to https://colab.google/ --> Click on "Upload Notebook" as Highlighted in RED
-![image](https://github.com/jayyanar/genai-apps/assets/12956021/f0b36794-cccb-4ad2-b38a-bbca2f78ee73)
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/f0b36794-cccb-4ad2-b38a-bbca2f78ee73){:height="100px" width="100px"}
 
 ## c) Provide the Github Link
 ![Screenshot 2023-08-07 at 5 38 24 PM 1](https://github.com/jayyanar/genai-apps/assets/12956021/0349f70c-5f51-41d5-b9b3-abdcf3cc2bea)
