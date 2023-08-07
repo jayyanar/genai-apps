@@ -25,7 +25,7 @@
  ## d) You need to wait for 1 Days for account creation
 
  
-# 3) Create Google Collab Account.
+# 2) Create Google Collab Account.
 
 ## a) Ensure you logged in your Gmail Account
 
