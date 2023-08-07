@@ -66,6 +66,23 @@
 
 # 4) Create Dreamstudio Account
 
+## a) Go to https://dreamstudio.ai/account --> Click on "Sign up" as Highlighted in RED
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/46891938-eb57-4abc-a022-7f35e55bd8d3)
+
+
+## b) Select "Sign up with Google" --> Provide your google credential and login or Select Google Account to Login. "Accept"
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/b1752df0-c6cf-4b10-8ade-9bdec1c97d00)
+
+
+## c) Copy and Keep the API Key Safe
+
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/585078fe-1de9-4389-93ba-d09e303fde17)
+
+
+** Ensure that you dont share this key one, or push it to GitHub
 
 # 5) Create Sagemaker Studio Lab Account (Optional)
 
