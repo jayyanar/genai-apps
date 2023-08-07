@@ -10,17 +10,32 @@
 
 # 2) Create Sagemaker Studio Lab Account
 
- ## 2a) Go to URL --> https://studiolab.sagemaker.aws/login --> Click on "Request account" as highlighted in RED below
+ ## a) Go to URL --> https://studiolab.sagemaker.aws/login --> Click on "Request account" as highlighted in RED below
 
  ![image](https://github.com/jayyanar/genai-apps/assets/12956021/23c0c5cc-bdaa-4059-84a4-a010ec5d1d3f)
 
- ## 2b) Go to URL --> https://studiolab.sagemaker.aws/login --> Click on "Request account" as highlighted in RED below
-
+ ## b) Fill the Information, Provide your email, FirstName, last Name
+ 
  ![image](https://github.com/jayyanar/genai-apps/assets/12956021/50411bb9-0645-4eb0-be32-2814aa78abb5)
 
+ ## c) Go to Email  --> Click on "Verify your email "  as highlighted in RED below
 
+ ![image](https://github.com/jayyanar/genai-apps/assets/12956021/7ccab11a-010a-4083-91fa-d1794c179d88)
 
-# 3) Create Cohere Account
+ ## d) You need to wait for 1 Days for account creation
+
+ 
+# 3) Create Google Collab Account.
+
+## a) Ensure you logged in your Gmail Account
+
+## b) Go to https://colab.google/ --> Click on "Open Colab" as Highlighted in RED
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/6be7cca7-654f-4b44-9092-ea54f6ce863c)
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/f0b36794-cccb-4ad2-b38a-bbca2f78ee73)
+
+# 4) Create Cohere Account
 
 
 # 4) Create Dreamstudio Account
