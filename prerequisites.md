@@ -20,10 +20,48 @@
 ![image](https://github.com/jayyanar/genai-apps/assets/12956021/f0b36794-cccb-4ad2-b38a-bbca2f78ee73)
 
 ## c) Provide the Github Link
+![Screenshot 2023-08-07 at 5 38 24 PM 1](https://github.com/jayyanar/genai-apps/assets/12956021/0349f70c-5f51-41d5-b9b3-abdcf3cc2bea)
 
- - 
+ - https://github.com/jayyanar/genai-apps
+ - Enter
 
 # 3) Create Cohere Account
+
+
+## a) Go to https://dashboard.cohere.ai/welcome/login?redirect_uri=%2F --> Click on "Sign up" as Highlighted in RED
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/f44d064c-2ea0-4905-8446-1c32bc57723b)
+
+## b) Select "Sign up with Google" --> Provide your google credential and login.
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/39b90fef-9717-402c-ae1c-49abc095931d)
+
+## c)  Finish the sign-up process
+
+### Step 1 - Provide your first Name and Last Name
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/7954749d-4233-4902-a1ff-aed9797d9810)
+
+### Step 2 --> Provide Details as Student
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/f54daa0b-c535-4abf-9da0-d54a1b8e94e5)
+
+
+### Step 3  - Select "Text Generation" and  Summit and login to the Dashboard
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/2885f140-6591-497e-b6ff-79b52d3bdb5c)
+
+
+
+## d)  Create a API token --> Go to https://dashboard.cohere.ai/ --> Click "API Keys" as highlighted in RED
+
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/154aad19-5833-47f6-b355-30ea3433d5a3)
+
+
+
+![image](https://github.com/jayyanar/genai-apps/assets/12956021/a2d9ebfc-cc5c-4224-9164-74810f88b678)
+
+** Ensure that you dont share this key one, or push it to GitHub
 
 
 # 4) Create Dreamstudio Account
