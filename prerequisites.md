@@ -10,6 +10,11 @@
 
 # 2) Create Sagemaker Studio Lab Account
 
+ Go to URL --> https://studiolab.sagemaker.aws/login --> Click on "Request account" as highlighted in RED below
+
+ ![image](https://github.com/jayyanar/genai-apps/assets/12956021/23c0c5cc-bdaa-4059-84a4-a010ec5d1d3f)
+
+
 
 
 # 3) Create Cohere Account
