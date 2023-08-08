@@ -18,3 +18,8 @@ Learn and Launch an Generative AI Application
 ## Lab 3: Image Generation - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/genai-apps/blob/main/lab3_gen_images.ipynb) 
 
 ### Imagination is your limit, You can Generate a Image of your Dream using Dreamstudio
+
+
+## Lab 4: Read PDF using Langchain - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/genai-apps/blob/main/lab4_LangChain_Cohere_PDF_Study_App.ipynb) 
+
+### Build your Study Application by Read the PDF Effeciently
