@@ -36,3 +36,6 @@
 
 ![image](https://github.com/jayyanar/genai-apps/assets/12956021/c224364f-f62d-426c-807a-04ce10846d4e)
 
+## Tools Powering Generative AI
+
+### Course: https://www.deeplearning.ai/short-courses/
