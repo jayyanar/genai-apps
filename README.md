@@ -5,7 +5,7 @@ Learn and Launch an Generative AI Application
 
 - Ref: https://github.com/jayyanar/genai-apps/blob/main/prerequisites.md
 
-### You need Sagemaker Studio Lab or Google Collab to run this Lab.
+- You need Sagemaker Studio Lab or Google Collab to run this Lab. - Sagemaker Studio Lab will take 1-5 days to get approved and Provisioned
 
 
 ## Lab 1: Word Embedding - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/genai-apps/blob/main/lab1_word_embedding.ipynb) 
