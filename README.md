@@ -26,6 +26,6 @@ Learn and Launch an Generative AI Application
 
 ### Build your Study Application by Read the PDF Effeciently
 
-## For More learning and Reading on Machine learning
+## To Learn More: learning and Reading on Machine learning
 
 - Ref: https://github.com/jayyanar/genai-apps/blob/main/learning.md
