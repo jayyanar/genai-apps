@@ -5,6 +5,8 @@ Learn and Launch an Generative AI Application
 
 - Ref: https://github.com/jayyanar/genai-apps/blob/main/prerequisites.md
 
+### You need Sagemaker Studio Lab or Google Collab to run this Lab.
+
 
 ## Lab 1: Word Embedding - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/genai-apps/blob/main/lab1_word_embedding.ipynb) 
 ### You will learn how to create a word embeddings using Word2Vec for Word and Sentence, Use Cohere API to process the file. You can use Sagemaker Studio Lab or Google Collab for this Demos
