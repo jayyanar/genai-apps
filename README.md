@@ -25,3 +25,7 @@ Learn and Launch an Generative AI Application
 ## Lab 4: Read PDF using Langchain - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jayyanar/genai-apps/blob/main/lab4_LangChain_Cohere_PDF_Study_App.ipynb) 
 
 ### Build your Study Application by Read the PDF Effeciently
+
+## For More learning and Reading on Machine learning
+
+- Ref: https://github.com/jayyanar/genai-apps/blob/main/learning.md
